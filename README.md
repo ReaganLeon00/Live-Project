@@ -42,3 +42,8 @@ This code inserts the sponsor photos into the display.
 
 </div>
 ```
+## Skills Learned
+* How to work in a team to make a project
+* Learned how to communicate with the stand-ups and code retrospectives
+* How to pull new versions of a project
+* How to push code thats been worked on
